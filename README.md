@@ -2,7 +2,7 @@
 
 Simple-3D-Graphics-Engine:
 
-[![Video](http://img.youtube.com/vi/K_Zuz1isiFU/maxresdefault.jpg)](http://www.youtube.com/watch?v=K_Zuz1isiFU "Simple 3D Graphics Engine")
+[![Video](http://img.youtube.com/vi/K_Zuz1isiFU/maxresdefault.jpg | width=100)](http://www.youtube.com/watch?v=K_Zuz1isiFU "Simple 3D Graphics Engine")
 
 UI Demo
 
